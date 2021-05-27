@@ -1,0 +1,8 @@
+def double(x, int):
+  """doubles the value of an int input"""
+  
+def triple(x, int):
+  """triples the value of an int input"""
+ 
+def quad(x, int):
+  """quadruples the value of an int input"""
